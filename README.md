@@ -8,3 +8,8 @@
 - [D3.js 嵌套选择集 (Nested Selection)](https://juejin.im/post/5b3219fef265da598826c320)
 - [以 Join 的方式来思考D3.js](https://juejin.im/post/5b20a5925188251371243c14)
 - [D3.js 之 d3-shap 简介](https://juejin.im/post/5b20a5925188251371243c14)
+
+
+## series
+- [楚狂人的D3翻译](https://www.cnblogs.com/winleisure/tag/D3.js/)
+- [张天旭的D3数据可视化](https://blog.csdn.net/zhang__tianxu/category_1623437.html)
